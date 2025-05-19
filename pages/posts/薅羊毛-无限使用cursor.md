@@ -5,7 +5,6 @@ updated: 2025-4-26
 categories: 薅羊毛
 tags:
   - 羊毛
-top: 3
 ---
 
 <h3 id="QJO3e">准备工具</h3>
